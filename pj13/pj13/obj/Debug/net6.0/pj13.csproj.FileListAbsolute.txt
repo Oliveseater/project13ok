@@ -1,0 +1,15 @@
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\pj13.exe
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\pj13.deps.json
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\pj13.runtimeconfig.json
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\pj13.dll
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\ref\pj13.dll
+C:\Users\307-03\TRPO\pj13\pj13\bin\Debug\net6.0\pj13.pdb
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.csproj.AssemblyReference.cache
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.AssemblyInfoInputs.cache
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.AssemblyInfo.cs
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.csproj.CoreCompileInputs.cache
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.dll
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\ref\pj13.dll
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.pdb
+C:\Users\307-03\TRPO\pj13\pj13\obj\Debug\net6.0\pj13.genruntimeconfig.cache
